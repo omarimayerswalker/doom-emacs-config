@@ -20,7 +20,7 @@ legibility."
   :group 'doom-drivezero-theme
   :type 'boolean)
 
-(defcustom doom-drivezero-padded-modeline doom-themes-padded-modeline nil
+(defcustom doom-drivezero-padded-modeline doom-themes-padded-modeline
   "If non-nil, adds a 4px padding to the mode-line. Can be an integer to
 determine the exact padding."
   :group 'doom-drivezero-theme
