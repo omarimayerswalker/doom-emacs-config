@@ -74,7 +74,6 @@ determine the exact padding."
    (functions      violet)
    (methods        cyan)
    (operators      violet)
-   ;; (type           bright-blue)
    (type           cyan2)
    (strings        fg-alt2)
    (numbers        magenta)
